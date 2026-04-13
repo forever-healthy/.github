@@ -8,4 +8,4 @@ There is a vast amount of cutting-edge medical knowledge on prevention, monitori
 
 When combined, these exciting developments should enable us to vastly extend our healthy lifespan. This is an incredible opportunity that we want to take full advantage of.
 
-Being part of Mira Holding, the activities of sister organization Kizoo in the rejuvenation biotech space complement our mission.
+As part of [Mira Holding](https://mira-holding.de), the activities of our sister organization, [Kizoo](https://kizoo.com), in the rejuvenation biotech space complement our mission.
