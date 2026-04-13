@@ -1,8 +1,8 @@
-### Welcome to Forever Healthy
+## Welcome to Forever Healthy
 
 We are a private, humanitarian initiative with the mission of enabling people to vastly extend their healthy lifespan.
 
-### An Incredible Opportunity
+## An Incredible Opportunity
 
 There is a vast amount of cutting-edge medical knowledge on prevention, monitoring, and re-balancing that can be used right now to optimize our health and well-being. Moreover, the first human rejuvenation therapies are already under development – some of them are even available today.
 
